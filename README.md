@@ -1,4 +1,4 @@
-📘 DSA Interview Questions & Answers
+### DSA Interview Questions & Answers
 1. What is a Data Structure?
 
 Answer:
